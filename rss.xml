@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Art of Jacques Hinkle on Stainless and Acrylic]]></title>
         <description><![CDATA[The Art of Jacques Hinkle on Stainless and Acrylic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/metalprints/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 19:31:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 03:31:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metalprints/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Art of Jacques Hinkle]]></title>
+            <description><![CDATA[<article><h1>Art of Jacques Hinkle</h1><p>This is the Art of Jacques Hinkle</p></article>]]></description>
+            <link>https://thegrid.ai/metalprints/art-of-jacques-hinkle/index.html</link>
+            <guid isPermaLink="false">654c411d-478b-4b52-b778-ebc19952b540</guid>
+            <pubDate>Wed, 11 Nov 2015 03:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aecaa30e-59b7-49a6-9505-f5225b8fd238.jpg">]]></description>
-            <link>undefined6b271ade-c631-4bd2-bba5-5a7e60fb627f/index.html</link>
+            <link>https://thegrid.ai/metalprints/6b271ade-c631-4bd2-bba5-5a7e60fb627f/index.html</link>
             <guid isPermaLink="false">6b271ade-c631-4bd2-bba5-5a7e60fb627f</guid>
             <pubDate>Sun, 08 Nov 2015 19:31:24 GMT</pubDate>
         </item>
